@@ -1,0 +1,14 @@
+/* Services.module.css */
+.section {
+  padding: 8rem 0 4rem;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.header {
+  text-align: center;
+  padding: 0 2rem 5rem;
+}
+@media (max-width: 768px) {
+  .section { padding: 5rem 0 2rem; }
+  .header  { padding: 0 1.5rem 3rem; }
+}
